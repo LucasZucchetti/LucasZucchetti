@@ -4,13 +4,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasZucchetti&count_private=true&theme=cobalt"/>
-  </a>
-</div>
-
-
 <div style="display: inline_block" align="center"><br>
   <a href="#">
     <img height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
