@@ -2,8 +2,6 @@
   <h1>Olá! Sou o Lucas Zucchetti 👋</h1>
 </div>
 
-##
-
 <div style="display: inline_block" align="center"><br>
   <a href="#">
     <img height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
